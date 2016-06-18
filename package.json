@@ -1,16 +1,20 @@
 {
-	"name": "caesar-mobile",
-	"version": "0.1.4",
-	"description": "caesar template for mobile. (fis+seajs+zepto)",
-	"keywords": [
+  "name": "caesar-mobile",
+  "version": "0.2.1",
+  "description": "caesar template for mobile. (fis+seajs+zepto)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livisky/caesar-mobile.git"
+  },
+  "keywords": [
 	    "fis",
 	    "seajs",
 	    "zepto"
-	],
-	"author": "livisky",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/livisky/caesar-mobile.git"
-	},
-	"dependencies":{"fis-postpackager-seajs": "0.0.1"}
+  ],
+  "author": "livisky",
+  "license": "MIT",
+  "homepage": "https://github.com/snadn/think-react-app#readme",
+  "dependencies": {
+    "fis-postpackager-seajs": "0.0.1"
+  }
 }
