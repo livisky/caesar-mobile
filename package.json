@@ -13,7 +13,7 @@
   ],
   "author": "livisky",
   "license": "MIT",
-  "homepage": "https://github.com/snadn/think-react-app#readme",
+  "homepage": "https://github.com/livisky/caesar-mobile#readme",
   "dependencies": {
     "fis-postpackager-seajs": "0.0.1"
   }
